@@ -1,6 +1,8 @@
 # Video de referencia
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KP398UANzfw?si=rZW8KDYi1EujsnaW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/KP398UANzfw/0.jpg)](https://www.youtube.com/watch?v=KP398UANzfw)
+
+# Glosario
 
 **Posición (*posición*):**
 La propiedad `position` en CSS controla cómo se posiciona un elemento en relación con su contenedor o con el documento en sí. Hay cinco valores principales para `position`:
